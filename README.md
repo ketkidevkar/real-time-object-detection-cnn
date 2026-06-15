@@ -168,7 +168,7 @@ Real-Time-Object-Detection-Using-CNN/
 ![Alerts](screenshots/fire_detection.jpeg)
 
 ### 📊 Demo Of Weapon Detection
-![Weapon](screenshots/weapon_detection.jpeg)
+![Weapon](screenshots/weapon_detection2.jpeg)
 
 
 ---
