@@ -156,14 +156,16 @@ Real-Time-Object-Detection-Using-CNN/
 ## 📸 System Screenshots
 
 ### 🎯 Live Object Detection
-![Detection](screenshots/detection1.png)
+![Detection](screenshots/Object_Detection.jpeg)
 
-### 📊 Monitoring Dashboard
-![Dashboard](screenshots/dashboard.png)
+### 📊 Demo Of Crowd Detection
+![Dashboard](screenshots/Crowd_Detection.jpeg)
 
 ### 🚨 Alert System View
-![Alerts](screenshots/alerts.png)
+![Alerts](screenshots/Fire_Detection.jpeg)
 
+### 📊 Demo Of Weapon Detection
+![Weapon](screenshots/Weapon_Detection.jpeg)
 ---
 
 ## 💼 Real-World Use Cases
