@@ -155,17 +155,22 @@ Real-Time-Object-Detection-Using-CNN/
 
 ## 📸 System Screenshots
 
+### 📊 PantherAI Dashboard
+![Dashboard](screenshots/dashboard.png)
+
 ### 🎯 Live Object Detection
-![Detection](screenshots/Object_Detection.jpeg)
+![Detection](screenshots/object_detection.jpeg)
 
 ### 📊 Demo Of Crowd Detection
-![Dashboard](screenshots/Crowd_Detection.jpeg)
+![Crowd Handling](screenshots/crowd_detection.jpeg)
 
 ### 🚨 Alert System View
-![Alerts](screenshots/Fire_Detection.jpeg)
+![Alerts](screenshots/fire_detection.jpeg)
 
 ### 📊 Demo Of Weapon Detection
-![Weapon](screenshots/Weapon_Detection.jpeg)
+![Weapon](screenshots/weapon_detection.jpeg)
+
+
 ---
 
 ## 💼 Real-World Use Cases
